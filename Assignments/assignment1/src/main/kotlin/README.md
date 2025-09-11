@@ -27,6 +27,12 @@ I like the Python interactive debugger a lot, so I have some experience with it.
 very helpful to me debugging my recursive function.
 
 
+---
+
+## Translating Code Reflection
+
+I thought that writing Kotlin code was pretty neat. There were some things that was really confusing about the IDE, such as the automatic "<=" signs they add, or the "until" functions were all very different compared to Python. I think the recursive use case with a helper function was also a bit difficult, because I wasn't sure how methods in Kotlin worked so I had to make sure it was allowed. I also had to figure out whether things can be modified in place, and the array manipulation made it a bit more complicated to test and run. In terms of writing unit tests, it was a bit difficult to figure out where things should go, but overall very similar to what I originally had anyway. I think overall this makes me think a lot more about what each variable represent and what typing I need to do, instead of just have an idea that I need to store _something_ and then worry about it later.
+
 The old code is linked in a private space. I'll just include it here for reference.
 ```{python}
 '''
